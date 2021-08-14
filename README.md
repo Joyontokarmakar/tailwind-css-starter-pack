@@ -10,10 +10,10 @@ git clone https://github.com/Joyontokarmakar/tailwind-css-starter-pack.git
 #### **Then You need to install and build this repository on your PC**.
 ```
 npm i
-```
-```
 npm run build
 ```
+
+------------------------------------------------------------------------------------------
 
 ### **How to Create this**
 ```
